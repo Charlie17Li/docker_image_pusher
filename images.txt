@@ -6,5 +6,7 @@
 # --platform=linux/arm64 xiaoyaliu/alist
 
 centos:7.9.2009
+--platform=linux/arm64 centos:7.9.2009
 ubuntu:22.04
 golang:1.14
+--platform=linux/arm64 golang:1.14
