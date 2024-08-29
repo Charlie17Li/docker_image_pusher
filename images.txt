@@ -4,6 +4,8 @@
 # xhofe/alist:latest
 #支持指定架构
 
+--platform=linux/arm64 nginx:latest
+
 --platform=linux/arm64 imagedong/nettrace-build:latest
 
 # --platform=linux/arm64 xiaoyaliu/alist
